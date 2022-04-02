@@ -1,0 +1,12 @@
+Branch:  A copy environment/flow for development
+
+Head: Current branch /commit that is being viewed
+
+    detached HEAD: when you are checked out to a commit
+
+            Do not do any changes on a detached HEAD,only on branches
+
+    Checkout: Switch the HEAD to branch /commit
+
+    Merge : Combine changes from branches together
+
